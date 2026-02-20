@@ -1,0 +1,8 @@
+# Python byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# JSON data files generated at runtime
+schedule_data.json
+notepad_data.json
